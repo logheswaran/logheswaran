@@ -10,7 +10,7 @@
 class Logheswaran:
     def __init__(self):
         self.name = "Logheswaran S"
-        self.location = "Puducherry / Tamil Nadu, India"
+        self.location = "Puducherry, India"
         self.degree = "B.Tech CSE, Pondicherry Technological University (2023 - 2027)"
         self.stack = ["Python", "C", "React", "Node.js", "WordPress", "WooCommerce"]
         self.currently_learning = ["Linux Administration", "Network Security",
@@ -77,7 +77,7 @@ print(me.motto())
 
 ### 🏆 Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=logheswaran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=logheswaran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -86,7 +86,7 @@ print(me.motto())
 ### 💼 Work Experience
 
 <details>
-<summary><b>Suja Creations</b> — E-Commerce Website Developer (Freelance) | Tamil Nadu, India</summary>
+<summary><b>Suja Creations</b> — E-Commerce Website Developer (Freelance) | Puducherry, India</summary>
 <br>
 
 > `WordPress` `WooCommerce` `Product Catalog` `Order Management`
@@ -99,7 +99,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><b>Luxora Jewels</b> — UI/UX-Focused Brand Site Developer (Freelance) | Tamil Nadu, India</summary>
+<summary><b>Luxora Jewels</b> — UI/UX-Focused Brand Site Developer (Freelance) | Puducherry, India</summary>
 <br>
 
 > `WordPress` `UI/UX Design` `Figma` `Brand Identity`
@@ -118,9 +118,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🛒 Suja Creations E-Commerce](https://github.com/logheswaran) | WordPress, WooCommerce | Full online store with product catalog, order management & customer-friendly UI |
-| [💎 Luxora Jewels](https://github.com/logheswaran) | WordPress, Figma, UI/UX | Premium jewelry brand site with polished UI/UX design system |
-| [📊 E-Commerce Sales Analytics Dashboard](https://github.com/logheswaran) | Power BI | Interactive dashboard for sales analysis, revenue tracking & business insights |
+| [🛒 Suja Creations E-Commerce](https://sujacreation.com/) | WordPress, WooCommerce | Full online store with product catalog, order management & customer-friendly UI |
+| [💎 Luxora Jewels](https://luxorajewels.co.in/) | WordPress, Figma, UI/UX | Premium jewelry brand site with polished UI/UX design system |
+| [📊 E-Commerce Sales Analytics Dashboard](https://app.powerbi.com/links/X1o6e7z58-?ctid=50f59129-e147-4ebe-b2b8-b64912cf3d26&pbi_source=linkShare) | Power BI | Interactive dashboard for sales analysis, revenue tracking & business insights |
 
 </div>
 
@@ -135,7 +135,6 @@ print(me.motto())
 | 📜 | IBM Python for Data Science, AI & Development | Completed on Coursera, Grade Achieved: 96.25% (July 6, 2025) |
 | 🛒 | Freelance E-Commerce Delivery | Successfully built & deployed Suja Creations store for a real business client |
 | 🎨 | Freelance UI/UX Delivery | Designed and shipped Luxora Jewels premium brand website |
-| 📚 | Original Creative Project | Authored & built "VB Thinking" — a 100-chapter storytelling website with full interactive design system |
 
 </div>
 
