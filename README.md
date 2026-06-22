@@ -75,11 +75,6 @@ print(me.motto())
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=logheswaran&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
-### 🏆 Trophy Wall
-
-<img src="https://github-profile-trophy.vercel.app/?username=logheswaran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
